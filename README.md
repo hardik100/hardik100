@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hardik100
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Node.js and Express.js
 - 💞️ I’m looking to collaborate on open source projects and for frontend development.
 - 📫 Email: hardikkhatri61@gmail.com
 
